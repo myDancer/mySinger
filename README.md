@@ -4,4 +4,4 @@
 
 查看点击链接
 
-<a target="_black" href="https//music.liangjiang.win">music.liangjiang.win</a>
+<a target="_black" href="https://music.liangjiang.win">music.liangjiang.win</a>
